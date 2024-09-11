@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 654 722">
+  <defs>
+    <path id="shared-B-path" d="M312 363c13-79 27-164 48-225 25-73 59-108 104-108 38 0 72 34 100 98 25 59 38 140 47 233 1 8 0 14-8 15-8 1-15-5-16-13-8-89-26-168-50-224-22-52-48-81-74-81-31 0-56 29-77 89-20 59-33 139-46 216"/>
+    
+    <style type="text/css">
+      .stroke-width { stroke-width: 5.7; }
+      .fill-black { fill: #9C9531; }
+      .fill-grey { fill: #BAB34F; }
+      .stroke-white { stroke: #7E7713; }
+    </style>
+  </defs>
+  
+  <path id="bottom-wave" class="fill-black" d="M341 360c-13 78-27 164-48 224-25 73-59 109-104 109-38 0-72-34-100-99-25-59-43-139-52-232-1-8 5-15 13-15 8-1 15 5 15 13 9 88 26 168 50 223 23 53 49 82 74 82 31 0 57-29 77-90 20-58 33-138 46-215"/>
+  
+  <g id="B">
+    <use id="behind-bottom" href="#shared-B-path" class="fill-black stroke-white stroke-width"/>
+    <path id="top" class="fill-grey stroke-white stroke-width" d="M37 363c13-79 27-164 48-225 25-73 59-108 104-108 38 0 72 34 100 98 25 59 43 140 52 232 1 8-5 15-13 16-8 1-15-5-16-13-8-89-26-168-50-224-22-52-48-81-74-81-31 0-56 29-77 89-20 59-33 139-46 216"/>
+  </g>
+  
+  <use id="bottom-B" href="#shared-B-path" fill="none" class="stroke-white stroke-width"/>
+  
+  <g id="N">
+    <path id="tail" class="fill-grey" d="M38 361S1 625 0 706a15 15 0 0028 3c3-76 33-310 38-348zm28 0H38"/>
+    <path id="head-up" class="fill-grey" d="M312 359c14 79 28 165 48 225 26 73 60 109 105 109 37 0 72-34 100-99 24-58 42-136 51-226 0-2 37-270 38-352a15 15 0 00-28-2c-3 82-37 349-38 351-8 86-26 164-49 218-22 53-48 82-74 82-31 0-56-29-77-90-20-58-33-138-46-215"/>
+  </g>
+</svg>
